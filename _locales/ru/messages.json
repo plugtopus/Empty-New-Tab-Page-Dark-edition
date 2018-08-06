@@ -1,0 +1,14 @@
+﻿{
+   "desc": {
+      "message": "В новой вкладке открывается чистая новая страница - Dark edition"
+   },
+   "name": {
+      "message": "Пустая вкладка Dark edition"
+   },
+   "shortname": {
+      "message": "Пустая вкладка Dark"
+   },
+   "title": {
+      "message": "Новая вкладка Dark"
+   }
+}
